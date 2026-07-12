@@ -1,6 +1,6 @@
 # Minor Project: USB and UART Serial Communication
 
-This repository contains the complete implementation and documentation for the minor project assignment at the end of my first year, demonstrating serial communication over USB/UART using a microcontroller and a terminal emulator.
+This repository contains the complete implementation and documentation for the minor project assignment, assigned by EdiGlobe as a part of my summer intership, demonstrating serial communication over USB/UART using a microcontroller and a terminal emulator.
 
 ## Core Project Requirements Completed
 
